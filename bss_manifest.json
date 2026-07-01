@@ -1,0 +1,5 @@
+{
+  "bss_strain_sensor.py": "https://raw.githubusercontent.com/KULLANICIADIN/bss-dagitim/main/bss_strain_sensor.py",
+  "bss_rig_firmware.ino": "https://raw.githubusercontent.com/KULLANICIADIN/bss-dagitim/main/bss_rig_firmware.ino",
+  "app_icon.ico": "https://raw.githubusercontent.com/KULLANICIADIN/bss-dagitim/main/app_icon.ico"
+}
